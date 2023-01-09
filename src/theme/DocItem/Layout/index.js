@@ -11,7 +11,6 @@ import DocItemTOCDesktop from '@theme/DocItem/TOC/Desktop';
 import DocItemContent from '@theme/DocItem/Content';
 import DocBreadcrumbs from '@theme/DocBreadcrumbs';
 import styles from './styles.module.css';
-import Giscus from '@giscus/react';
 
 /**
  * Decide if the toc should be rendered, on mobile or desktop viewports
@@ -46,20 +45,6 @@ export default function DocItemLayout({children}) {
             {docTOC.mobile}
             <DocItemContent>{children}</DocItemContent>
             <DocItemFooter />
-            <Giscus
-              id="giscus"
-              repo="BriightSpark/aem-community-cms"
-              repoId="R_kgDOIU0w0A"
-              category="General"
-              categoryId="DIC_kwDOIU0w0M4CSayw"
-              mapping="pathname"
-              reactionsEnabled="1"
-              emitMetadata="0"
-              inputPosition="top"
-              theme={ colorMode }
-              lang="en"
-              loading="lazy"
-              />
           </article>
           <DocItemPaginator />
         </div>
