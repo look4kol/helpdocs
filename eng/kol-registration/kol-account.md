@@ -46,4 +46,10 @@ KOL accounts in Look4KOL gets access to their very own KOL Wallet which has mone
 
 #### Look4KOL Linktree:
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 11.11.41 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 11.13.28 AM.png" alt=""><figcaption><p>Look4KOL LinkTree</p></figcaption></figure>
+
+This Linktree can be used to promote your Look4KOL Profile and we help to automatically create this for you once you have a KOL Profile
+
+These are all the things you would need to know before starting your journey as a KOL on Look4KOL. 😁
+
+Thank you.
