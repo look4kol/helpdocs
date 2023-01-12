@@ -40,3 +40,24 @@ As per your Instagram Insights, the locations of your followers are shown with t
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 11.54.11 AM.png" alt=""><figcaption><p>Follower's Location in map format</p></figcaption></figure>
 
+#### Follower's Gender
+
+As per your Instagram Insights, the gender ratio of your followers is shown with the help of a chart in your Look4KOL profile.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 1.03.39 PM.png" alt=""><figcaption><p>Pie Chart to Show Follower's Gender in Look4KOL Profile</p></figcaption></figure>
+
+#### Followers Age Group:
+
+As per your Instagram Insights, the age group of your followers is shown with the help of a bar graph in your Look4KOL profile.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 1.04.48 PM.png" alt=""><figcaption><p>Followers Age Group shown in Bar Graph</p></figcaption></figure>
+
+These are all the things that are collected from your Facebook business page and if it is not connected everything will be empty or not shown and which will not make your profile stand out.
+
+To know how to register Facebook Business Account:
+
+{% content-ref url="facebook-business-account.md" %}
+[facebook-business-account.md](facebook-business-account.md)
+{% endcontent-ref %}
+
+Thanks
