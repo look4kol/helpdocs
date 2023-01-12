@@ -1,2 +1,2 @@
-# 🎯 How to Sign up as a KOL
+# How to Sign up as a KOL
 
