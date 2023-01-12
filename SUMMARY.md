@@ -20,7 +20,7 @@
   * [About Look4KOL](eng/about.md)
   * [KOL Registration](docs/intro.md)
     * [🤳 KOL Account for Look4KOL](eng/kol-registration/kol-account.md)
-    * [Why look4kol need Facebook Login](eng/kol-registration/why-look4kol-need-facebook-login.md)
+    * [🔗 Why Look4KOL needs you to connect with Facebook](eng/kol-registration/why-look4kol-needs-you-to-connect-with-facebook.md)
     * [How to register Facebook Business Account](eng/kol-registration/facebook-business-account.md)
     * [How to apply as Instagram Business Account / Creator Account](eng/kol-registration/ig-business-account-creator-account.md)
     * [Create a Facebook Page linked to Instagram Creator Account](eng/kol-registration/facebook-page-link-to-ig-creator-account.md)
