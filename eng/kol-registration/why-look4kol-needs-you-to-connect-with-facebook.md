@@ -56,8 +56,8 @@ These are all the things that are collected from your Facebook business page and
 
 To know how to register Facebook Business Account:
 
-{% content-ref url="facebook-business-account.md" %}
-[facebook-business-account.md](facebook-business-account.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 Thanks
