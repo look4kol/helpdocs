@@ -4,7 +4,7 @@
 * [教學文檔 (中文)](zh/README.md)
   * [關於Look4KOL](zh/about.md)
   * [KOL註冊](zh/kol-registration/README.md)
-    * [Look4KOL的KOL 帳戶](zh/kol-registration/kol-account.md)
+    * [🤳 Look4KOL的KOL 帳戶](zh/kol-registration/kol-account.md)
     * [為什麼 Look4KOL 需要 Facebook 登入](zh/kol-registration/why-look4kol-need-facebook-login.md)
     * [如何註冊 Facebook 商業帳戶](zh/kol-registration/facebook-business-account.md)
     * [如何申請成為 Instagram 商業帳戶/創作者帳戶](zh/kol-registration/ig-business-account-creator-account.md)

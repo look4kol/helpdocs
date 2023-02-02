@@ -36,11 +36,11 @@ The unique thing about your KOL Account is your KOL Profile. To learn more about
 
 KOL accounts in Look4KOL get access to their very own KOL Wallet which has money earned by doing jobs and contracts on Look4KOL. To learn more about KOL Wallet, please read the article below:
 
-#### Look4KOL Linktree:
+#### KOL Quick Contact
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 11.13.28 AM.png" alt=""><figcaption><p>Look4KOL LinkTree</p></figcaption></figure>
 
-This Linktree can be used to promote your Look4KOL Profile and we help to automatically create this for you once you have a KOL Profile
+This Quick Contact Page can be used to promote your Look4KOL Profile and we help to automatically create this for you once you have a KOL Profile
 
 These are all the things you would need to know before starting your journey as a KOL on Look4KOL. 😁
 

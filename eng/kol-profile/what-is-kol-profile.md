@@ -12,7 +12,7 @@ Look4KOL profile is an online representation of KOL's performance that significa
 
 ### What key items in Look4KOL Profile
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="key component inside Look4KOL profile"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="key component inside Look4KOL profile"><figcaption></figcaption></figure>
 
 There are several items will be listed on the Look4KOL profile
 

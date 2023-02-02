@@ -12,7 +12,7 @@ Look4KOL 個人資料是 KOL 的網上表現，對潛在客戶有重要影響。
 
 Look4KOL 專頁中有以下幾項：&#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>一個完整的Look4KOL專頁例子</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>一個完整的Look4KOL專頁例子</p></figcaption></figure>
 
 * 帖子數量、粉絲數量和關注數量
 * KOL過去工作例子
