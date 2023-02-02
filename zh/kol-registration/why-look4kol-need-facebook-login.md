@@ -1,4 +1,4 @@
-# 為什麼 Look4KOL 需要 Facebook 登入
+# 🔗 為什麼 Look4KOL 需要 Facebook 登入
 
 ### 它如何幫助您的 KOL 專頁和排名？
 
@@ -10,48 +10,48 @@ Look4KOL可以從您的 Instagram 頁面收集有關您的**粉絲數量**、**�
 
 ### Look4KOL 的數據分析
 
-As mentioned above, when a KOL account is connected to its Facebook Page, Look4KOL helps to gather valuable insights into the profile.
+如上所述，當 KOL 帳戶連接到其 Facebook 頁面時，Look4KOL 有助於分析你的追隨者並提供分析結果。
 
-#### Statistics:
+#### 數據:
 
-Your basic Instagram Statistics are collected and refreshed when you connect your Facebook Page with Look4KOL
+當您將 Facebook 頁面與 Look4KOL 關聯時，您的基本 Instagram 統計數據將被收集和刷新
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 11.36.32 AM.png" alt=""><figcaption><p>Statistics shown on Look4KOL Profile</p></figcaption></figure>
 
-As seen in the image above, Look4KOL collects your profile picture and sets it as your avatar. It also tracks your posts, followers, and following number so that brands can view them as per an analytical approach.
+如上圖所示，Look4KOL 收集您的頭像並將其設置為您的頭像。 它還會跟踪您的帖子、關注者數目和追隨者數目，以便品牌可以根據分析方法查看它們。
 
 {% hint style="info" %}
-You can always change your Look4KOL avatar by going to edit profile.
+您可以隨時通過編輯KOL資料頁面來更改您的 Look4KOL 頭像。
 {% endhint %}
 
-#### Recent Instagram Posts:
+#### 最近的 Instagram 帖子：
 
-When you connect your Facebook Page with Look4KOL, then your profile can have your recent 6-9 Instagram posts which can then be seen by potential brands that would contact you.
+當您將您的 Facebook 頁面與 Look4KOL連接時，您的個人介紹及最近的 6-9 條 Instagram 帖子都會顯示到你的Look4KOL KOL專頁上，然後可以被與您聯繫的潛在品牌看到。
 
-#### Followers Locations:
+#### 追隨者地點：
 
-As per your Instagram Insights, the locations of your followers are shown with the help of a map in your Look4KOL profile.
+根據您的 Instagram Insights，借助 Look4KOL 資料中顯示您的關注者的主要位置地圖。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 11.54.11 AM.png" alt=""><figcaption><p>Follower's Location in map format</p></figcaption></figure>
 
-#### Follower's Gender
+#### 追隨者的性別：
 
-As per your Instagram Insights, the gender ratio of your followers is shown with the help of a chart in your Look4KOL profile.
+根據您的 Instagram Insights，您的關注者的性別比例將會在您的 Look4KOL 個人專頁中的以圖表下顯示。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 1.03.39 PM.png" alt=""><figcaption><p>Pie Chart to Show Follower's Gender in Look4KOL Profile</p></figcaption></figure>
 
-#### Followers Age Group:
+#### 追隨者年齡組：
 
-As per your Instagram Insights, the age group of your followers is shown with the help of a bar graph in your Look4KOL profile.
+根據您的 Instagram Insights，您的關注者的年齡段在您的 Look4KOL 個人專頁中的以圖表下顯示。
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-01-12 at 1.04.48 PM.png" alt=""><figcaption><p>Followers Age Group shown in Bar Graph</p></figcaption></figure>
 
-These are all the things that are collected from your Facebook business page and if it is not connected everything will be empty or not shown and which will not make your profile stand out.
+這些是從您的 Facebook business頁面收集的所有內容，如果未連接，所有內容都將是空的或不顯示，這不會使您的個人資料脫穎而出。
 
-To know how to register Facebook Business Account:
+了解如何註冊 Facebook 企業帳戶：
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../eng/kol-registration/facebook-page-link-to-ig-creator-account.md" %}
+[facebook-page-link-to-ig-creator-account.md](../../eng/kol-registration/facebook-page-link-to-ig-creator-account.md)
 {% endcontent-ref %}
 
 Thanks

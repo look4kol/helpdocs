@@ -8,13 +8,13 @@ description: >-
 
 ### How does it help your KOL Profile and Ranking?
 
-As Look4KOL has a lot of KOLs and it is essential for you to get the right customer and brand to be connected to you. (Example: You are an athletic influencer, you would want sports brands to contact you instead of makeup brands.)&#x20;
+There are different kinds of KOLs in Look4KOL and it is essential for you to get the right customer and brand to be connected to you. (Example: You are an athletic influencer, you would want sports brands to contact you instead of makeup brands.)&#x20;
 
 Connecting with Facebook which is connected to your Instagram Profile is essential for you to stand out and let brands know about your following audience and also your current statistics.
 
 Look4KOL is smart enough to gather information from your Instagram Page, about your **Followers** Number, **Posts** Number, and **Following** Number. Moreover, Look4KOL can collect your recent Instagram Posts to be shown on your KOL Profile.
 
-### Look4KOL Analytics
+### Look4KOL Data Analytics
 
 As mentioned above, when a KOL account is connected to its Facebook Page, Look4KOL helps to gather valuable insights into the profile.
 
@@ -56,8 +56,8 @@ These are all the things that are collected from your Facebook business page and
 
 To know how to register Facebook Business Account:
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="create-a-facebook-business-page.md" %}
+[create-a-facebook-business-page.md](create-a-facebook-business-page.md)
 {% endcontent-ref %}
 
 Thanks
