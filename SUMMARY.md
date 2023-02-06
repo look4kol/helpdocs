@@ -18,6 +18,7 @@
     * [如何取得在您的 KOL專頁上得到「已驗證」的勾勾](zh/kol-profile/how-be-a-verified-kol.md)
 * [DOCS (ENG)](eng/README.md)
   * [Recommendation Tools](eng/recommendation-tools/README.md)
+    * [Page 3](eng/recommendation-tools/page-3.md)
     * [🤖 The need for a recommendation tool](eng/recommendation-tools/the-need-for-a-recommendation-tool.md)
     * [📑 Campaign Details](eng/recommendation-tools/campaign-details.md)
   * [About Look4KOL](eng/about.md)
