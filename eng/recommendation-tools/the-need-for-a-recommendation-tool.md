@@ -20,21 +20,21 @@ Artificial intelligence (AI) offers several advantages over traditional marketin
 4. Cost-effectiveness: AI-powered marketing tools can automate routine tasks, reducing the need for manual labor, and often result in cost savings compared to traditional marketing agencies.
 5. Scalability: AI systems can quickly scale to handle large amounts of data and can provide insights across multiple channels, whereas traditional agencies may struggle with the complexity of these tasks.
 
-Look4KOL has the same potential as its AI machine, we can easily scale, we are fast, and we are reliable. [Try it](https://www.look4kol.com).
+Look4KOL has a special artificial intelligence recommendation system and is more reliable than traditional marketing companies. [Try it](https://www.look4kol.com).
 
-### How we analyze and give you the best recommendation.
+### How Look4KOL analyzes KOL and give you the best recommendation.
 
-Look4KOL has many factors when we give you the perfect recommendation of KOLs for your marketing campaigns.
+Look4KOL will consider a lot of factors when we give you the perfect recommendation of KOLs for your marketing campaigns.
 
 {% hint style="info" %}
-Our AI system is just an estimated recommendation, the final choice is always yours. We do not take any responsibility for the final results.
+Our artificial intelligence system is just a recommendation based on our data, the final choice is always yours. We accept no responsibility for the end result.
 {% endhint %}
 
-**Reach or Engagement**
+#### **Reach or Engagement**
 
 We ask if your marketing campaign's end goal is Reach or Engagement.
 
-**Audience Definition**
+#### **Audience Definition**
 
 * Your total campaign budget
 * How many KOLs would you want to cater for this particular campaign
