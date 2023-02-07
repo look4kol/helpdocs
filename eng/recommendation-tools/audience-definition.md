@@ -1,5 +1,7 @@
 # 👥 Audience Definition
 
+## Audience Definition Setting
+
 {% hint style="danger" %}
 All parameters are a must to fill in as the AI engine can give accurate information only if it has ample information.
 {% endhint %}
@@ -16,7 +18,7 @@ These are all the parameters
 
 Here is a brief description of all the parameters you need to input for a good recommendation experience.
 
-## Number of KOL
+### Number of KOL
 
 This is an important parameter as this will decide the reach and will also give the AI engine an estimate of how many KOL are you willing to hire which means we will also calculate your per KOL cost using this
 
