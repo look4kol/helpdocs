@@ -1,6 +1,6 @@
 # 📑 Campaign Details
 
-After you finish your recommendation use this tool. We help to create a free project in Look4KOL's project tools where you can manage this campaign that you are asking recommendation for. Therefore, for some basic things, we ask you about your campaign details.
+After you chose to use this tool. We will help to create a free project in Look4KOL's project management tools. Therefore, we ask you about your campaign details for some basic things.
 
 ### Campaign Name
 
