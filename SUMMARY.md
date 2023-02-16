@@ -6,6 +6,8 @@
     * [🤖 推薦工具的必要性](zh/recommendation-tools/tui-jian-gong-ju-de-bi-yao-xing.md)
     * [📑 營銷活動詳情](zh/recommendation-tools/campaign-details.md)
     * [👥 受眾定義](zh/recommendation-tools/audience-definition.md)
+    * [🤳 KOL建議](zh/recommendation-tools/kol-jian-yi.md)
+    * [💵 合約和報價頁面](zh/recommendation-tools/he-yue-he-bao-jia-ye-mian.md)
   * [關於Look4KOL](zh/about.md)
   * [KOL註冊](zh/kol-registration/README.md)
     * [🤳 Look4KOL的KOL 帳戶](zh/kol-registration/kol-account.md)
