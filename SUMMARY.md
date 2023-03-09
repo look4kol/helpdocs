@@ -24,6 +24,7 @@
     * [什麼是KOL專頁](zh/kol-profile/what-is-kol-profile.md)
     * [如何取得在您的 KOL專頁上得到「已驗證」的勾勾](zh/kol-profile/how-be-a-verified-kol.md)
 * [DOCS (ENG)](eng/README.md)
+  * [💬 ChatGPT](eng/chatgpt.md)
   * [🛠 Project Tools](eng/project-tools.md)
   * [Recommendation Tools](eng/recommendation-tools/README.md)
     * [🤖 The need for a recommendation tool](eng/recommendation-tools/the-need-for-a-recommendation-tool.md)
