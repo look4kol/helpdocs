@@ -1,8 +1,8 @@
 ---
-description: Everything you need to know about Look4KOL x ChatGPT
+description: Everything you need to know about ChatGPT for creators
 ---
 
-# 💬 ChatGPT
+# 💬 ChatGPT For Creators
 
 ### What is the excitement about?
 
@@ -14,11 +14,11 @@ Everyone now knows about the famous and powerful ChatGPT, an AI tool you can tal
 This Article is referred to ChatGPT version 3.5 and the User Experience might not feel the same as in openAI. As we are only using an API
 {% endhint %}
 
-We here at Look4KOL are all about giving a better experience to KOLs/Customers. In addition to the chatroom feature of Look4KOL, we have integrated ChatGPT into it.
+We here at Look4KOL are all about giving a better experience to KOLs. In addition to the chatroom feature of Look4KOL, we have integrated ChatGPT for creators into it.
 
 You can ask all types of questions as a creator or a customer to this ChatGPT bot, whether it is for you to decide on content for your next post or if you want to know some good budget for your first KOL marketing campaign. ChatGPT has an answer for everything. We have also given some example prompts for users to choose from which will be covered in the sections below.
 
-### How can I use it?
+### How can I use ChatGPT for creators?
 
 {% hint style="warning" %}
 You must have a KOL/Customer Account with Look4KOL to access this feature.
@@ -37,7 +37,7 @@ It is fairly simple to access and use this feature but here is a small tutorial 
 4. Click on this chatroom to access the ChatGPT room.
 5. Enjoy chatting ChatGPT with some interesting questions. 🎉
 
-### Special Features of Look4KOL x ChatGPT
+### Special Features of ChatGPT for Creators
 
 The ChatGPT feature we provide is not an ordinary AI Chatbot but it has a lot more to do with it.
 
@@ -53,10 +53,10 @@ To use any of the prompts, we can simply click the try now button and the prompt
 
 #### Follow Up Questions
 
-As ChatGPT is an excellent person to talk to and it feels like you are talking to a real person, we have created our own AI system to think of some great follow up questions for you to choose from
+As ChatGPT is an excellent person to talk to and it feels like you are talking to a real person, we have created our own AI system to think of some great follow-up questions for you to choose from
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-03-09 at 6.09.52 PM.png" alt=""><figcaption><p>The Bubbles after the answer are the follow up questions.</p></figcaption></figure>
 
-We have used previous training data to tailor made these follow up questions and make them to be precisie to what you asked prior to ChatGPT. To use these follow up questions, you simply have to click the white bubble and press the send button.
+We have used previous training data to tailor-made these follow-up questions and make them be precise to what you asked prior to ChatGPT. To use these follow-up questions, you simply have to click the white bubble and press the send button.
 
-Thank you, happy ChatGPTing. 🤯
+Thank you, and happy ChatGPTing. 🤯
