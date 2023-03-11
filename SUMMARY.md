@@ -2,7 +2,8 @@
 
 * [Page 1](README.md)
 * [教學文檔 (中文)](zh/README.md)
-  * [🛠 專案工具](zh/zhuan-an-gong-ju.md)
+  * [💬 為創作者而設的 ChatGPT](zh/chatgpt-for-creators.md)
+  * [🛠 專案工具](zh/project-tools.md)
   * [營銷活動](zh/recommendation-tools/README.md)
     * [🤖 推薦工具的必要性](zh/recommendation-tools/tui-jian-gong-ju-de-bi-yao-xing.md)
     * [📑 營銷活動詳情](zh/recommendation-tools/campaign-details.md)
