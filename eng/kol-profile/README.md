@@ -1,2 +1,2 @@
-# KOL Profile
+# 👥 KOL Profile
 
