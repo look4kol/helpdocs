@@ -43,7 +43,7 @@
     * [🎯 How to Sign up as a KOL](eng/kol-registration/how-to-sign-up-as-kol.md)
   * [💼 Customer Registration](eng/customer-registration/README.md)
     * [Customer Account for Look4KOL](eng/customer-registration/customer-account.md)
-    * [How to sign up as a customer](eng/customer-registration/how-to-sign-up-as-a-customer.md)
+    * [How To Sign Up As a Customer](eng/customer-registration/how-to-sign-up-as-a-customer.md)
   * [👥 KOL Profile](eng/kol-profile/README.md)
     * [What is KOL Profile](eng/kol-profile/what-is-kol-profile.md)
     * [How to Get the "Verified" Checkmark on Your KOL Profile](eng/kol-profile/how-be-a-verified-kol.md)
