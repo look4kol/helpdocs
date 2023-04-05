@@ -10,11 +10,11 @@ In Look4KOL we have several parameters that we take into consideration so that t
 
 These are all the parameters
 
-* ****[**Number of KOL**](audience-definition.md#number-of-kol)****
-* ****[**Target Category**](audience-definition.md#target-category)****
-* ****[**Followers' Gender**](audience-definition.md#followers-gender)****
-* ****[**Followers' Countries**](audience-definition.md#followers-countries)****
-* ****[**Followers' Age**](audience-definition.md#followers-age)****
+* [**Number of KOL**](audience-definition.md#number-of-kol)
+* [**Target Category**](audience-definition.md#target-category)
+* [**Followers' Gender**](audience-definition.md#followers-gender)
+* [**Followers' Countries**](audience-definition.md#followers-countries)
+* [**Followers' Age**](audience-definition.md#followers-age)
 
 Here is a brief description of all the parameters you need to input for a good recommendation experience.
 
@@ -60,6 +60,6 @@ This is to know what age group you want the KOL's followers to be.
 This is just an estimation
 {% endhint %}
 
-According to your selection of **budget** and **number of KOL**, **** we give a reach prediction. You can edit the total budget from the graph itself.
+According to your selection of **budget** and **number of KOL**, we give a reach prediction. You can edit the total budget from the graph itself.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-02-06 at 5.07.47 PM.png" alt=""><figcaption><p>Reach Prediction Graph</p></figcaption></figure>

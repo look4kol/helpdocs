@@ -22,7 +22,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 在這裡您可以看到您的活動描述，如果您的描述很長，此部分也可以滾動。
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>紅框區域為營銷活動說明</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>紅框區域為營銷活動說明</p></figcaption></figure>
 
 #### 營銷活動統計：
 
@@ -36,7 +36,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 為了更方便，我們還為您提供了一個工作跟踪器。 您可以在哪裡看到已完成的工作數量以及已完成的工作數量佔剩餘工作數量的百分比：
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
 
 #### 預算跟踪器：
 
@@ -48,7 +48,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 項目表控制著項目系統的所有主要功能。 您可以在此處監控和查看所選 KOL 的所有數據。 此表為您提供添加 KOL、保存表和刪除作業/KOL 的功能。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sample Project Table</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Sample Project Table</p></figcaption></figure>
 
 **該表可以有多行：**
 
@@ -74,7 +74,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 所有這些功能將打開項目頁面的側面板
 {% endhint %}
 
-&#x20;**** 如果該行是 KOL 行：
+&#x20;如果該行是 KOL 行：
 
 * 聊天預覽
 * KOL 預覽
@@ -88,17 +88,17 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 如上所述，表中的按鈕有很多功能，它們都指向本節。
 
-#### 聊天預覽 _****_ 💬
+#### 聊天預覽 💬
 
 這將向您展示您與 KOL 聊天的預覽，事實上，您實際上可以使用這個部分與 KOL 聊天。
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-#### KOL 預覽 _****_ 👧🏻：
+#### KOL 預覽 👧🏻：
 
 這將打開側面板並提供有關 KOL 的簡要信息。
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 與該KOL的所有工作列表📑：
 

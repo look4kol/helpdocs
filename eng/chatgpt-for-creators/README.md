@@ -8,7 +8,7 @@ description: Everything you need to know about ChatGPT for creators
 
 Everyone now knows about the famous and powerful ChatGPT, an AI tool you can talk to and a guidebook for you. People nowadays use ChatGPT more than google search because of its interesting user flow, it's exactly like talking to your personal assistant which knows about basically anything.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-09 at 5.43.31 PM.png" alt=""><figcaption><p>ChatGPT x Look4KOL</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-05 at 6.49.37 PM.png" alt=""><figcaption><p>ChatGPT x Look4KOL</p></figcaption></figure>
 
 {% hint style="info" %}
 This Article is referred to ChatGPT version 3.5 and the User Experience might not feel the same as in openAI. As we are only using an API
@@ -23,7 +23,7 @@ You can ask all types of questions as a creator or a customer to this ChatGPT bo
 {% hint style="warning" %}
 You must have a KOL/Customer Account with Look4KOL to access this feature.
 
-You can easily signup [here](https://www.look4kol.com/en/register) and [read this if you are having difficulty.](customer-registration/)
+You can easily signup [here](https://www.look4kol.com/en/register) and [read this if you are having difficulty.](../customer-registration/)
 {% endhint %}
 
 It is fairly simple to access and use this feature but here is a small tutorial on how you can use it and maximize the response from ChatGPT.
@@ -32,31 +32,31 @@ It is fairly simple to access and use this feature but here is a small tutorial 
 2. Use the sidebar to navigate to the chatroom and click the [CHAT](https://www.look4kol.com/en/c).
 3. You will then see a button to create a ChatGPT chatroom or you will have it by default.
 
-![](<../.gitbook/assets/Screenshot 2023-03-09 at 5.54.24 PM.png>)  This is how the chatroom will look like.
+![](<../../.gitbook/assets/Screenshot 2023-03-09 at 5.54.24 PM.png>)  This is how the chatroom will look like.
 
 4. Click on this chatroom to access the ChatGPT room.
 5. Enjoy chatting ChatGPT with some interesting questions. 🎉
 
 ### Special Features of ChatGPT for Creators
 
-The ChatGPT feature we provide is not an ordinary AI Chatbot but it has a lot more to do with it.
+The ChatGPT feature we provide is not an ordinary AI Chatbot but has much more to do with it.
+
+#### Three different kinds of AI Generation Tools:
+
+**Text**: The classic text ChatGPT prompt is what we provide which also gives you a follow-up question prompt. [text-feature.md](text-feature.md "mention")
+
+**Image**: The image generation tool, where you can describe an image you want to generate an AI will help you with it. [image-feature.md](image-feature.md "mention")
+
+**IG Post:** The IG Post generator will give you a form to fill in about the product you want to market and AI will do the rest. [ig-post-feature.md](ig-post-feature.md "mention")
 
 #### Example Prompts:
 
 When you select ChatGPT from the left section of the chatroom you will see the right section to change and show some amazing example prompts to try out and ask ChatGPT
 
-![](<../.gitbook/assets/Screenshot 2023-03-09 at 6.02.37 PM.png>) This is the example prompts from the right section.
+![](<../../.gitbook/assets/Screenshot 2023-04-05 at 6.45.58 PM.png>) This is the example prompts from the right section.
 
-To use any of the prompts, we can simply click the try now button and the prompt will appear in the text field and we can tailor it to our preference.
+To use any of the prompts, we can simply click the try now button, and the prompt will appear in the text field and the settings panel will open and we can tailor it to our preference.
 
-<figure><img src="../.gitbook/assets/ezgif.com-video-to-gif (1).gif" alt=""><figcaption><p>Using example prompt</p></figcaption></figure>
-
-#### Follow Up Questions
-
-As ChatGPT is an excellent person to talk to and it feels like you are talking to a real person, we have created our own AI system to think of some great follow-up questions for you to choose from
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-09 at 6.09.52 PM.png" alt=""><figcaption><p>The Bubbles after the answer are the follow up questions.</p></figcaption></figure>
-
-We have used previous training data to tailor-made these follow-up questions and make them be precise to what you asked prior to ChatGPT. To use these follow-up questions, you simply have to click the white bubble and press the send button.
+<figure><img src="../../.gitbook/assets/ezgif.com-video-to-gif (1).gif" alt=""><figcaption><p>Using example prompt</p></figcaption></figure>
 
 Thank you, and happy ChatGPTing. 🤯

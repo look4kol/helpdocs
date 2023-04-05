@@ -24,7 +24,7 @@ There are typically _**3 main sections**_ on the project tools page:
 
 &#x20;This is where you can see your campaign description and this section is also scrollable if you have a long description.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Red Boxed area is Campaign Description</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Red Boxed area is Campaign Description</p></figcaption></figure>
 
 #### &#x20;Project Statistics:
 
@@ -38,7 +38,7 @@ The total number of Jobs associated with this project is the second block:
 
 For easier convenience, we give you a job tracker as well. Where you can see the number of jobs done and also a percentage of how many jobs are finished out of how many are still left:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
 
 #### Budget Tracker:
 
@@ -50,7 +50,7 @@ For easier convenience, we give you a job tracker as well. Where you can see the
 
 &#x20;The project table controls all the main functions of the project system. It is where you can monitor and see all the data of your selected KOLs. This table gives you functions to add KOL, save Table, and Delete Jobs/KOLs.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sample Project Table</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Sample Project Table</p></figcaption></figure>
 
 **The table can have multiple rows:**
 
@@ -100,7 +100,7 @@ _**KOL Preview**_ 👧🏻:
 
 This will open the side panel and give a piece of brief information about the KOL.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**Job List**_** 📑**:
 
