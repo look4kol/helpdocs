@@ -2,9 +2,9 @@
 
 ### How to use this feature?
 
-Go to your ChatGPT Chatroom and click Text from the settings panel.
+Go to your ChatGPT Chatroom and click **Text** from the text field bar.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 After clicking the Text Feature you will see a settings panel is opened on the right side of the chat and the Text Field will be enabled for you to write.
 
@@ -30,6 +30,6 @@ To send the message you have to simply write your question or prompt to ChatGPT 
 
 As ChatGPT is an excellent person to talk to and it feels like you are talking to a real person, we have created our own AI system to think of some great follow-up questions for you to choose from
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Example follow up questions and response</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Example follow up questions and response</p></figcaption></figure>
 
 We have used previous training data to tailor-made these follow-up questions and make them precise to what you asked prior to ChatGPT. To use these follow-up questions, you simply have to click the white bubble and press the send button.
