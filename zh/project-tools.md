@@ -28,7 +28,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 當前在您的項目中選擇的 KOL 總數是第一塊：
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>第一個方框區域是選擇的 KOL 總數</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>第一個方框區域是選擇的 KOL 總數</p></figcaption></figure>
 
 與此項目關聯的工作總數是第二個塊：
 
@@ -36,7 +36,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 為了更方便，我們還為您提供了一個工作跟踪器。 您可以在哪裡看到已完成的工作數量以及已完成的工作數量佔剩餘工作數量的百分比：
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
 
 #### 預算跟踪器：
 
@@ -106,7 +106,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 具體工作✍🏻：
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 如何編輯專案的基本信息？
 

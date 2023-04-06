@@ -30,7 +30,7 @@ There are typically _**3 main sections**_ on the project tools page:
 
 &#x20;The total number of KOLs selected in your project currently is the first block:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>First Boxed Area is Total Number of KOLs Selected</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>First Boxed Area is Total Number of KOLs Selected</p></figcaption></figure>
 
 The total number of Jobs associated with this project is the second block:
 
@@ -38,7 +38,7 @@ The total number of Jobs associated with this project is the second block:
 
 For easier convenience, we give you a job tracker as well. Where you can see the number of jobs done and also a percentage of how many jobs are finished out of how many are still left:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Third Boxed Area is the number of Jobs Done</p></figcaption></figure>
 
 #### Budget Tracker:
 
@@ -108,7 +108,7 @@ This will show the jobs with this KOL in a list format.
 
 _**Particular Job ✍🏻**_:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How to edit your Project's Basic Information?
 

@@ -36,7 +36,7 @@ KOL 是Key Opinion Leader，也稱為Influencers，網紅或內容創建者。 �
 
 #### KOL錢包
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>一個在Look4KOL中的KOL錢包例子</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>一個在Look4KOL中的KOL錢包例子</p></figcaption></figure>
 
 在Look4KOL中的 KOL 帳戶可以訪問他們自己的 KOL 錢包，該錢包通過在 Look4KOL 上做工作和簽訂合同賺取金錢。 要了解更多關於 KOL 錢包的信息，請閱讀以下文章：
 
@@ -44,7 +44,7 @@ KOL 是Key Opinion Leader，也稱為Influencers，網紅或內容創建者。 �
 
 #### KOL聯絡頁面
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>KOL聯絡頁面</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>KOL聯絡頁面</p></figcaption></figure>
 
 此頁面可用於宣傳您的 Look4KOL 個人資料，一旦您擁有 KOL 個人資料，我們會幫助您自動創建此頁面這些都是您在開始 Look4KOL上的KOL之旅之前需要了解的所有事情。
 
