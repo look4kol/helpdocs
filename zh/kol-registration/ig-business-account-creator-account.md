@@ -12,9 +12,9 @@
 
 #### 要將您的個人賬戶或企業帳戶切換為創作者賬戶：
 
-1. 轉到您的帳戶並點擊 ![](https://scontent.fjai1-1.fna.fbcdn.net/v/t39.8562-6/58783750\_2295905530729900\_5636193176319426560\_n.jpg?\_nc\_cat=109\&ccb=1-7&\_nc\_sid=6825c5&\_nc\_ohc=wWvxUxN4Bo8AX92NDdz&\_nc\_ht=scontent.fjai1-1.fna\&oh=00\_AfAPI\_Q5Bok6zy3BmYsOU7Uup4fXHE8mIXcbZoKclxzWiw\&oe=63C52952)。
-2. 選擇 ![](https://scontent.fjai1-1.fna.fbcdn.net/v/t39.8562-6/59104415\_2372100106405724\_7576009202733154304\_n.png?\_nc\_cat=101\&ccb=1-7&\_nc\_sid=6825c5&\_nc\_ohc=GHsILzghuEcAX8d2ajn&\_nc\_ht=scontent.fjai1-1.fna\&oh=00\_AfAzhN58RaY2jsMgH9TCxlE4pt42Ukm9hD860J8JO\_9aHw\&oe=63C5C9E7)。
-3. 選擇帳戶。
+1. 轉到您的帳戶並點擊 ![](<../../.gitbook/assets/static.xx.fbcdn (2).png>)。
+2. 選擇 ![](../../.gitbook/assets/static.xx.fbcdn.png)及 ![](<../../.gitbook/assets/static.xx.fbcdn (1).png>)設置和隱私。
+3. 選擇 ![](../../.gitbook/assets/signal-2023-04-12-122341.jpeg)。
 4.
    * 如果您從個人帳戶遷移，請選擇切換到專業帳戶並點擊創建者。
    * 如果您是從企業帳戶遷移，請選擇切換到創建者賬戶。

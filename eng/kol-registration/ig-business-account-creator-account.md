@@ -16,9 +16,9 @@ Note: [you may only have five Instagram accounts](https://help.instagram.com/168
 
 #### To switch your personal account or business profile to a creator account:
 
-1. Go to your account and tap ![](https://scontent.fjai1-1.fna.fbcdn.net/v/t39.8562-6/58783750\_2295905530729900\_5636193176319426560\_n.jpg?\_nc\_cat=109\&ccb=1-7&\_nc\_sid=6825c5&\_nc\_ohc=wWvxUxN4Bo8AX92NDdz&\_nc\_ht=scontent.fjai1-1.fna\&oh=00\_AfAPI\_Q5Bok6zy3BmYsOU7Uup4fXHE8mIXcbZoKclxzWiw\&oe=63C52952).
-2. Select ![](https://scontent.fjai1-1.fna.fbcdn.net/v/t39.8562-6/59104415\_2372100106405724\_7576009202733154304\_n.png?\_nc\_cat=101\&ccb=1-7&\_nc\_sid=6825c5&\_nc\_ohc=GHsILzghuEcAX8d2ajn&\_nc\_ht=scontent.fjai1-1.fna\&oh=00\_AfAzhN58RaY2jsMgH9TCxlE4pt42Ukm9hD860J8JO\_9aHw\&oe=63C5C9E7).
-3. Select Account.
+1. Go to your account and tap ![](<../../.gitbook/assets/static.xx.fbcdn (2).png>).
+2. Select ![](../../.gitbook/assets/static.xx.fbcdn.png) then tap  ![](<../../.gitbook/assets/static.xx.fbcdn (1).png>) **Settings and privacy**.
+3. Select  ![](../../.gitbook/assets/signal-2023-04-12-122341.jpeg) .
 4.
    * If you are migrating from a personal account, choose Switch to professional account and tap Creator.
    * If you are migrating from a business profile, choose Switch to creator account.
