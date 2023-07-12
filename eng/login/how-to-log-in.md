@@ -1,4 +1,4 @@
-# 🤷♂ How to Log In
+# 🤷♂ How to login
 
 To go to Look4KOL's login page, you can go to [https://look4kol.com/en/login](https://look4kol.com/en/login)
 

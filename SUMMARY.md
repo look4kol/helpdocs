@@ -26,7 +26,7 @@
     * [如何取得在您的 KOL專頁上得到「已驗證」的勾勾](zh/kol-profile/how-be-a-verified-kol.md)
 * [DOCS (ENG)](eng/README.md)
   * [🔗 Login](eng/login/README.md)
-    * [🤷♂ How to login](eng/login/how-to-login.md)
+    * [🤷♂ How to login](eng/login/how-to-log-in.md)
   * [💬 ChatGPT For Creators](eng/chatgpt-for-creators/README.md)
     * [⌨ Text Feature](eng/chatgpt-for-creators/text-feature.md)
     * [📸 Image Feature](eng/chatgpt-for-creators/image-feature.md)

@@ -9,4 +9,4 @@ You need to signup first before logging in [intro.md](../../docs/intro.md "menti
 {% endhint %}
 
 The login page is universally for everyone including KOL and Customer Account.\
-To know how to log in click here:&#x20;
+To know how to log in click here: [how-to-log-in.md](how-to-log-in.md "mention")
