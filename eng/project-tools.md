@@ -94,7 +94,11 @@ _**Chat Preview**_ 💬_**:**_
 
 This will show you a preview of your chat with the KOL, in fact, you can actually chat with the KOL yourself using this small section.
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 _**KOL Preview**_ 👧🏻:
 

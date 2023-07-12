@@ -44,7 +44,11 @@
 
 4. 單擊關聯帳戶後，單擊 Instagram 選項以連接到您的 Instagram 企業帳戶。
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/ ig.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5. 現在這將要求您登錄並連接您的 IG 帳戶。 您可以通過按藍色連接按鈕連接您的帳戶。
 

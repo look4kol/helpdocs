@@ -37,7 +37,11 @@ Here are the steps to link your IG Business Account using your Facebook Fan Page
 
 4. After clicking the linked accounts, click the Instagram option to connect to your Instagram business account.
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/ ig.jpeg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 5. This will now ask you to log in and connect your IG account. You can connect your account by pressing the blue connect button.
 

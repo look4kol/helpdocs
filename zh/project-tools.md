@@ -92,7 +92,11 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 這將向您展示您與 KOL 聊天的預覽，事實上，您實際上可以使用這個部分與 KOL 聊天。
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 #### KOL 預覽 👧🏻：
 

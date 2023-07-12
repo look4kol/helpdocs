@@ -6,7 +6,7 @@ Using the image feature is fairly simple, this document will give you a step-by-
 
 To use this feature, go to your ChatGPT Chatroom and click **Image** from the text field bar.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Step to choose Image Setting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Step to choose Image Setting</p></figcaption></figure>
 
 ### Text Prompt
 

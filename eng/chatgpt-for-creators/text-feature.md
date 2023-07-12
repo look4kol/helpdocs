@@ -10,7 +10,11 @@ After clicking the Text Feature you will see a settings panel is opened on the r
 
 ### Settings Guide
 
+<div align="center">
+
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Settings For Text</p></figcaption></figure>
+
+</div>
 
 The settings for the Text generation have three parts:
 
