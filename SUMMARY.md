@@ -52,6 +52,7 @@
   * [👥 KOL Profile](eng/kol-profile/README.md)
     * [What is KOL Profile](eng/kol-profile/what-is-kol-profile.md)
     * [How to Get the "Verified" Checkmark on Your KOL Profile](eng/kol-profile/how-be-a-verified-kol.md)
+  * [📞 Linktree](eng/linktree.md)
 
 ## Group 1
 
