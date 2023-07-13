@@ -34,7 +34,7 @@ There are typically _**3 main sections**_ on the project tools page:
 
 The total number of Jobs associated with this project is the second block:
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Second Boxed Area is The number of Jobs in the project</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Second Boxed Area is The number of Jobs in the project</p></figcaption></figure>
 
 For easier convenience, we give you a job tracker as well. Where you can see the number of jobs done and also a percentage of how many jobs are finished out of how many are still left:
 
@@ -44,7 +44,7 @@ For easier convenience, we give you a job tracker as well. Where you can see the
 
 &#x20;The budget tracker gives you the total budget and total cost. Moreover, the percentage of the budget exhausted is also shown in the progress bar given.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Red Boxed area is the budget tracker</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Red Boxed area is the budget tracker</p></figcaption></figure>
 
 ### Project Table and its functions:
 
@@ -112,7 +112,7 @@ This will show the jobs with this KOL in a list format.
 
 _**Particular Job ✍🏻**_:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## How to edit your Project's Basic Information?
 

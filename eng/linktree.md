@@ -10,7 +10,7 @@ You can find your linktree at https://look4kol.com/en/link/**kol\_name** (kol\_n
 
 The linktree is a list of actions and information about the KOL and can be shared with other people, brands, and collaborators so that people can quickly view your profile on look4kol.
 
-<img src="../.gitbook/assets/image (12).png" alt="" data-size="original">Example of a perfect linktree
+<img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="original">Example of a perfect linktree
 
 I will be explaining the linktree by breaking it into 2 sections:
 
@@ -18,7 +18,7 @@ I will be explaining the linktree by breaking it into 2 sections:
 
 This is the top section of the linktree which includes basic information and a view of the KOL.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Share Button
 * Avatar/Profile Picture
@@ -54,7 +54,7 @@ All of the things mentioned above can be changed by editing your profile: [how-t
 
 Users who view your linktree can perform certain actions to interact with your profile or linktree.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * View KOL Profile
 * Contact KOL
@@ -77,13 +77,13 @@ This button will open a modal to ask for a confirmation to start talking to the 
 
 This button will open a modal to show the followers characteristics of your linktree or the KOL linktree. To know more about the followers demographics, please read this. [what-is-kol-profile.md](kol-profile/what-is-kol-profile.md "mention")
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### View Case Study Button
 
 This will open a modal that will show all the case studies present in the KOL Profile
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Thank you
 
