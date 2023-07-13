@@ -2,7 +2,7 @@
 
 To go to Look4KOL's login page, you can go to [https://look4kol.com/en/login](https://look4kol.com/en/login)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Log in page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Log in page</p></figcaption></figure>
 
 After creating an account by signing up as a KOL or Customer. You need to enter your email address and password to redirect to your dashboard.
 
@@ -26,7 +26,7 @@ Once you have successfully entered both, you can press the "Login" button to suc
 
 If you have forgotten your password but you remember you email address, we can help you to recover your account.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 Click on the forgot password text shown in the picture above and you will be asked to enter your email.
 

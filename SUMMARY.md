@@ -51,6 +51,7 @@
     * [How To Sign Up As a Customer](eng/customer-registration/how-to-sign-up-as-a-customer.md)
   * [👥 KOL Profile](eng/kol-profile/README.md)
     * [What is KOL Profile](eng/kol-profile/what-is-kol-profile.md)
+    * [How To Edit KOL Profile](eng/kol-profile/how-to-edit-kol-profile.md)
     * [How to Get the "Verified" Checkmark on Your KOL Profile](eng/kol-profile/how-be-a-verified-kol.md)
   * [📞 Linktree](eng/linktree.md)
 

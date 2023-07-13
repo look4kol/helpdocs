@@ -32,7 +32,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 與此項目關聯的工作總數是第二個塊：
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Second Boxed Area is The number of Jobs in the project</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Second Boxed Area is The number of Jobs in the project</p></figcaption></figure>
 
 為了更方便，我們還為您提供了一個工作跟踪器。 您可以在哪裡看到已完成的工作數量以及已完成的工作數量佔剩餘工作數量的百分比：
 
@@ -42,7 +42,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 預算跟踪器為您提供總預算和總成本。 此外，預算用盡的百分比也顯示在給定的進度條中。
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>紅框區域是預算跟踪器</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>紅框區域是預算跟踪器</p></figcaption></figure>
 
 ### 專案KOL表及其功能：
 
