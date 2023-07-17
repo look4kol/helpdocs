@@ -10,7 +10,7 @@ You can find your linktree at https://look4kol.com/en/link/**kol\_name** (kol\_n
 
 The linktree is a list of actions and information about the KOL and can be shared with other people, brands, and collaborators so that people can quickly view your profile on look4kol.
 
-<img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="original">Example of a perfect linktree
+<img src="../.gitbook/assets/image (12) (1) (1).png" alt="" data-size="original">Example of a perfect linktree
 
 I will be explaining the linktree by breaking it into 2 sections:
 
@@ -54,7 +54,7 @@ All of the things mentioned above can be changed by editing your profile: [how-t
 
 Users who view your linktree can perform certain actions to interact with your profile or linktree.
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * View KOL Profile
 * Contact KOL

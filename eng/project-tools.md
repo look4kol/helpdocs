@@ -34,7 +34,7 @@ There are typically _**3 main sections**_ on the project tools page:
 
 The total number of Jobs associated with this project is the second block:
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Second Boxed Area is The number of Jobs in the project</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption><p>Second Boxed Area is The number of Jobs in the project</p></figcaption></figure>
 
 For easier convenience, we give you a job tracker as well. Where you can see the number of jobs done and also a percentage of how many jobs are finished out of how many are still left:
 

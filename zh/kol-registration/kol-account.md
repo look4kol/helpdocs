@@ -24,7 +24,7 @@ KOL 是Key Opinion Leader，也稱為Influencers，網紅或內容創建者。 �
 
 #### KOL專頁
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>一名在Look4KOL註冊的KOL專頁</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>一名在Look4KOL註冊的KOL專頁</p></figcaption></figure>
 
 你的KOL賬戶的獨特之處在於你的KOL專頁。要了解更多關於KOL簡介的信息，請閱讀下面的文章。
 

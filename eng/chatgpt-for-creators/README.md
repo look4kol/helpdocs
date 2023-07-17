@@ -2,7 +2,7 @@
 description: Everything you need to know about ChatGPT for creators
 ---
 
-# 💬 ChatGPT For Creators
+# 🤖 ChatGPT For Creators
 
 ### What is the excitement about?
 

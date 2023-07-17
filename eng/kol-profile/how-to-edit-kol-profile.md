@@ -23,7 +23,7 @@ Look4KOL is a popular platform that connects brands and businesses with Key Opin
 There are four cover images shown in your KOL Profile and you can edit them all by clicking and replacing any of the cover images.\
 
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Avatar and Username
 
@@ -54,7 +54,7 @@ A service plan is a pricing plan based on your services to the customer.
 
 Once you are done editing your profile, Press the save button on the top of the page and you can also choose if you would want to publish your profile by the toggle switch.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finally, After it is saved, you can press Leave Edit Mode, to preview your updated KOL Profile
 
