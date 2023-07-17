@@ -46,6 +46,10 @@ To proceed to the next step you will have to finish linking your IG account with
 
 9\. Press Complete and wait till your KOL Profile is completed.
 
+Here is a full complete tutorial on how to create your KOL Profile as well:
+
+{% embed url="https://www.youtube.com/watch?ab_channel=LOOK4KOL&v=WAMXhfAUe1Q" %}
+
 Thank you so much.
 
 Tune into how to present your KOL Profile and also how to edit it here. [kol-profile](../kol-profile/ "mention")

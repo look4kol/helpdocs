@@ -85,3 +85,7 @@ If you have problems connecting your Look4KOL account with your FB or IG, and ca
 * Is the IG account you registered with Look4KOL correctly linked to the FB fans you manage?
 
 Since a FB fan page can only be linked to one set of IG business accounts. Once there is an error in any link between these three, it will not be possible to complete the setup smoothly.
+
+Here is a full tutorial on how to link Facebook to an Instagram account:
+
+{% embed url="https://www.youtube.com/watch?v=_ejwFB-ydeY" %}
