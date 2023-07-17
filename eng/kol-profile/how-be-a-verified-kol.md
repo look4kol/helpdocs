@@ -1,6 +1,6 @@
 # How to Get the "Verified" Checkmark on Your KOL Profile
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 The verified badge in Look4KOL is a symbol of authenticity and credibility that distinguishes Key Opinion Leaders (KOLs) from other users on the platform. The verification process ensures that your profile is genuine, helping you gain trust and attract potential clients. This help document will guide you through the steps to obtain the blue verified badge as a KOL in Look4KOL.
 

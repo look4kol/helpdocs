@@ -14,7 +14,7 @@ Talking about all the sections briefly in the previous helpdocs, here we will di
 
 This is the initial agreement and requirements in the contract, and majorly the requirements will be defined by the customer and the price by the KOL
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Customer Part:
 
@@ -48,7 +48,7 @@ This step is very **crucial**, as the requirements and price cannot be changed a
 
 **Customer Part:**
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 1. Re-edit the requirements if they want, and they can revise it
 2. Add a schedule and edit it
@@ -56,7 +56,7 @@ This step is very **crucial**, as the requirements and price cannot be changed a
 
 **KOL Part:**
 
-![](<../../.gitbook/assets/image (16).png>)
+![](<../../.gitbook/assets/image (16) (1).png>)
 
 1. After receiving the new and revised requirements and schedule. The KOL can decide and revise the price as well according to the new requirements.
 2. Once done, KOL can press the Save Content button.

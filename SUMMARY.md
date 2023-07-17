@@ -27,7 +27,6 @@
 * [DOCS (ENG)](eng/README.md)
   * [🔗 Login](eng/login/README.md)
     * [🤷♂ How to login](eng/login/how-to-log-in.md)
-  * [💬 Chatroom](eng/chatroom.md)
   * [📄 Contract](eng/contract/README.md)
     * [How does the contract work](eng/contract/how-does-the-contract-work.md)
   * [🤖 ChatGPT For Creators](eng/chatgpt-for-creators/README.md)
@@ -57,6 +56,7 @@
     * [How To Edit KOL Profile](eng/kol-profile/how-to-edit-kol-profile.md)
     * [How to Get the "Verified" Checkmark on Your KOL Profile](eng/kol-profile/how-be-a-verified-kol.md)
   * [📞 Linktree](eng/linktree.md)
+  * [🔎 Search Page](eng/search-page.md)
 
 ## Group 1
 

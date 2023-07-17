@@ -31,7 +31,7 @@ The Audience Details for the Instagram Post is essential as this tells the AI en
 
 #### Product Details
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 The product details are the core of this questionnaire/form. This will tell the AI engine what the post is about to be and what is the branding and specifics of the particular advertisement.
 

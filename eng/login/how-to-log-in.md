@@ -2,7 +2,7 @@
 
 To go to Look4KOL's login page, you can go to [https://look4kol.com/en/login](https://look4kol.com/en/login)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Log in page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>Log in page</p></figcaption></figure>
 
 After creating an account by signing up as a KOL or Customer. You need to enter your email address and password to redirect to your dashboard.
 

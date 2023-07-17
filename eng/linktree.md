@@ -83,7 +83,7 @@ This button will open a modal to show the followers characteristics of your link
 
 This will open a modal that will show all the case studies present in the KOL Profile
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 Thank you
 

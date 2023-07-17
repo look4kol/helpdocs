@@ -110,7 +110,7 @@ Hi 👋🏻！ 感謝您使用我們的專案管理系統，讓我們通過一�
 
 具體工作✍🏻：
 
-<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 如何編輯專案的基本信息？
 

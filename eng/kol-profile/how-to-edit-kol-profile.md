@@ -36,7 +36,7 @@ You can click the profile picture to replace it and also type in a new username 
 
 There is some personal information in your KOL Profile that you can edit.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Location** - You can choose the location you are present in
 * **Description** - You can briefly describe yourself as a KOL in this description and it will be displayed on your KOL Profile

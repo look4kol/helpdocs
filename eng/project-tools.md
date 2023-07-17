@@ -112,7 +112,7 @@ This will show the jobs with this KOL in a list format.
 
 _**Particular Job ✍🏻**_:
 
-<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## How to edit your Project's Basic Information?
 
