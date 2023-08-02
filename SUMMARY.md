@@ -5,7 +5,7 @@
   * [🔗 登入](zh/deng-ru/README.md)
     * [🤷♂ 如何登錄](zh/deng-ru/ru-he-deng-lu.md)
   * [📄 合約](zh/contract/README.md)
-    * [How does the contract work](zh/contract/how-does-the-contract-work.md)
+    * [How does the contract work](zh/he-yue/how-does-the-contract-work.md)
   * [💬 為創作者而設的 ChatGPT](zh/chatgpt-for-creators/README.md)
     * [⌨ 文本功能](zh/chatgpt-for-creators/text-feature.md)
     * [📸 圖片功能](zh/chatgpt-for-creators/image-feature.md)
@@ -70,4 +70,5 @@
 
 ## Group 1
 
-* [Page 2](group-1/page-2.md)
+* [Look4kol 的隱私政策](group-1/privacy-policy-chi.md)
+* [Look4KOL Privacy Policy](group-1/look4kol-privacy-policy.md)
