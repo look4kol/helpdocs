@@ -6,7 +6,7 @@
 
 客戶在 Look4KOL 中的角色？
 
-look4kol 中的客戶帳戶具有以下功能[推薦工具](../recommendation-tools/tui-jian-gong-ju-de-bi-yao-xing.md)、[專案工具](../project-tools.md)、[搜索頁面](customer-account.md#kol-search-page)和 KOL 比較工具。 這些工具是出色的工具，可幫助客戶品牌增加銷售額及其影響者營銷活動的投資回報率。
+look4kol 中的客戶帳戶具有以下功能[推薦工具](../recommendation-tools/the-need-for-a-recommendation-tool.md)、[專案工具](../project-tools.md)、[搜索頁面](customer-account.md#kol-search-page)和 KOL 比較工具。 這些工具是出色的工具，可幫助客戶品牌增加銷售額及其影響者營銷活動的投資回報率。
 
 客戶可以通過從搜索頁面找到 KOL 並從聊天室或推薦工具與他們創建合同來直接向 KOL 發送消息。
 

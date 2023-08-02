@@ -2,7 +2,7 @@
 
 要進入Look4KOL的登錄頁面，您可以訪問 [https://look4kol.com/hk/login](https://look4kol.com/hk/login)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>Log in page</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>Log in page</p></figcaption></figure>
 
 通過註冊成為 KOL 或客戶創建帳戶後。 您需要輸入您的電子郵件地址和密碼才能重定向到您的儀表板。
 
@@ -24,7 +24,7 @@ _密碼**:**_
 
 如果您忘記了密碼，但記得您的電子郵件地址，我們可以幫助您恢復帳戶。
 
-<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt="" width="375"><figcaption></figcaption></figure>
 
 單擊上圖中顯示的忘記密碼文字，系統將要求您輸入電子郵件。
 

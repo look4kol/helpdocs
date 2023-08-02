@@ -8,7 +8,7 @@ description: 您需要了解創作者的 ChatGPT的一切
 
 現在每個人都知道著名且功能強大的 ChatGPT，這是一個可以與之交談的 AI 工具和一本指南。 現在人們更多地使用 ChatGPT 而不是Google搜索，因為它有趣的Chatbot，這就像和你的私人助理交談一樣，他基本上什麼都知道。
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-09 at 5.43.31 PM.png" alt=""><figcaption><p>ChatGPT x Look4KOL</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-09 at 5.43.31 PM.png" alt=""><figcaption><p>ChatGPT x Look4KOL</p></figcaption></figure>
 
 {% hint style="info" %}
 本文指的是 ChatGPT 3.5 版，用戶體驗可能與 openAI 有少不同。
@@ -21,7 +21,7 @@ description: 您需要了解創作者的 ChatGPT的一切
 ### 如何使用創作者版 ChatGPT？
 
 {% hint style="warning" %}
-您必須擁有 Look4KOL 的 KOL/客戶帳戶才能訪問此功能。 您可以輕鬆在這裹[註冊](https://look4kol.com/hk/register) 及 [這裹](customer-registration/how-to-sign-up-as-a-customer.md)
+您必須擁有 Look4KOL 的 KOL/客戶帳戶才能訪問此功能。 您可以輕鬆在這裹[註冊](https://look4kol.com/hk/register) 及 [這裹](../customer-registration/how-to-sign-up-as-a-customer.md)
 {% endhint %}
 
 使用此功能相當簡單，但這裡有一個小教程，介紹如何使用它並最大化地使用 ChatGPT 的回覆。
@@ -30,7 +30,7 @@ description: 您需要了解創作者的 ChatGPT的一切
 2. 使用邊欄導航到聊天室並單擊 [CHAT](https://look4kol.com/hk/c).
 3. 然後，您將看到一個用於創建 ChatGPT 聊天室的按鈕，或者您已經默認擁有它。
 
-![](<../.gitbook/assets/Screenshot 2023-03-09 at 5.54.24 PM.png>)  這就是聊天室的樣子。
+![](<../../.gitbook/assets/Screenshot 2023-03-09 at 5.54.24 PM.png>)  這就是聊天室的樣子。
 
 4. 單擊此聊天室可訪問 ChatGPT 聊天室。
 5. 享受與一些有趣的問題聊天 ChatGPT。 🎉
@@ -43,17 +43,17 @@ description: 您需要了解創作者的 ChatGPT的一切
 
 當您從聊天室的左側部分選擇 ChatGPT 時，您將看到右側部分進行更改並顯示一些不同的示例提示以嘗試並詢問 ChatGPT
 
-![](<../.gitbook/assets/Screenshot 2023-03-09 at 6.02.37 PM.png>)這是右側部分的示例提示。
+![](<../../.gitbook/assets/Screenshot 2023-03-09 at 6.02.37 PM.png>)這是右側部分的示例提示。
 
 要使用任何提示，我們只需單擊“立即嘗試”按鈕，提示就會出現在文本字段中，我們可以根據自己的喜好對其進行定制。
 
-<figure><img src="../.gitbook/assets/ezgif.com-video-to-gif (1).gif" alt=""><figcaption><p>Using example prompt</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ezgif.com-video-to-gif (1).gif" alt=""><figcaption><p>Using example prompt</p></figcaption></figure>
 
 #### 跟進問題
 
 由於 ChatGPT 是一個很好的交談對象，感覺就像在和真人交談，我們創建了自己的 AI 系統來思考一些很棒的後續問題供您選擇。
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-03-09 at 6.09.52 PM.png" alt=""><figcaption><p>The Bubbles after the answer are the follow up questions.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-03-09 at 6.09.52 PM.png" alt=""><figcaption><p>The Bubbles after the answer are the follow up questions.</p></figcaption></figure>
 
 我們使用以前的培訓數據來量身定制這些後續問題，並使它們精確到您在 ChatGPT 之前提出的問題。 要使用這些後續問題，您只需單擊白色氣泡並按下發送按鈕。
 
